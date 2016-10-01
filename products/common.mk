@@ -46,13 +46,9 @@ PRODUCT_COPY_FILES += \
 
 # Extra packages
 PRODUCT_PACKAGES += \
-    Browser \
-    Busybox \
     LockClock \
     masquerade \
-    NitrogenWallpapers \
-    Stk \
-    Terminal
+    NitrogenWallpapers
 
 # Init.d script support
 PRODUCT_COPY_FILES += \
